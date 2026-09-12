@@ -96,6 +96,7 @@ Cleaned data was loaded into Excel, connected via Pivot Tables, and built into a
 | File | Description |
 |---|---|
 | `Zomato.xlsx` | Raw data file |
+| `ZomatoQuestionnaire.txt` | Project Questionnaire file |
 | `ZOMATO-excel.xlsx` | Excel project file -Overview |
 | `Zomato_Project.sql` | SQL scripts — data model, relationships & business queries |
 | `Zomato_Restaurant_Overview.twbx` | Tableau packaged workbook — Restaurant Overview dashboard |
