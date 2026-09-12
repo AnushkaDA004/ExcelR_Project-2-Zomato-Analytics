@@ -13,7 +13,7 @@ To clean and structure the raw Zomato dataset, build a relational data model in 
 ## 🛠️ Tools & Workflow
 
 ```
-Raw Data (Zomato_Need_To_Clean.xlsx)
+Raw Data (Zomato.xlsx)
         ↓
    Python (Pandas) — cleaning, type-fixing, null handling
         ↓
@@ -95,10 +95,7 @@ Cleaned data was loaded into Excel, connected via Pivot Tables, and built into a
 
 | File | Description |
 |---|---|
-| `MAIN.csv` | Cleaned restaurant listing data |
-| `Country.csv` | Country ID-to-name mapping |
-| `Currency.csv` | Currency-to-USD conversion rates |
-| `Calender.csv` | Date dimension table |
+| `Zomato.xlsx` | Raw data file |
 | `ZOMATO-excel.xlsx` | Excel project file -Overview |
 | `Zomato_Project.sql` | SQL scripts — data model, relationships & business queries |
 | `Zomato_Restaurant_Overview.twbx` | Tableau packaged workbook — Restaurant Overview dashboard |
